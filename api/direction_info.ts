@@ -1,5 +1,5 @@
 export interface DirectionInfo {
-    destination: string;
-    duration: number;
-    cost: number;
+  destination: string;
+  duration: number;
+  cost: number;
 }
